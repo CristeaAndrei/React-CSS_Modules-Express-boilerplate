@@ -1,2 +1,1 @@
-# React-CSS_Modules-Express-boilerplate
-Simple Boilerplate created with create-react-app, express-generator and CSS-modules Implemented
+React.js Boilerplate composed of create-react-app, express-generator, CSS-modules and React-routes v4 example. [React-CSS_Modules-Express-boilerplate](https://github.com/CristeaAndrei/React-CSS_Modules-Express-boilerplate).
